@@ -89,6 +89,13 @@ void AntAlgorithm(int** matrix, int N, map<pair<int, int>, double> feromonesMap,
 			cout << "->" << ways[0].first[i];
 		}
 		cout << "\nДлина пути: " << ways[0].second << "\n";
+		cout << "\n";
+		for (const auto& entry : feromonesMap) {
+			const auto& key = entry.first;   // ключ (std::pair<int, int>)
+			double value = entry.second;      // значение (double)
+
+			std::cout << "Путь: (" << key.first << ", " << key.second << "), Значение феромона: " << value << std::endl;
+		}
 		cout << "\n\n";
 	}while (counter != iterations);
 }

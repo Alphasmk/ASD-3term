@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|solutionrelative:lab10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\AntAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|solutionrelative:lab10\\AntAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\GenerateWays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|solutionrelative:lab10\\GenerateWays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\AntAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|solutionrelative:lab10\\AntAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\AntAlgorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|solutionrelative:lab10\\AntAlgorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|solutionrelative:lab10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AEB4697-A3D0-443C-8616-9C55C513F151}|lab10\\lab10.vcxproj|E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\GenerateWays.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,30 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 30,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AntAlgorithm.cpp",
               "DocumentMoniker": "E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\AntAlgorithm.cpp",
               "RelativeDocumentMoniker": "lab10\\AntAlgorithm.cpp",
               "ToolTip": "E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\AntAlgorithm.cpp",
               "RelativeToolTip": "lab10\\AntAlgorithm.cpp",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAIwE8AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwFQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-24T13:19:33.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AntAlgorithm.h",
               "DocumentMoniker": "E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\AntAlgorithm.h",
               "RelativeDocumentMoniker": "lab10\\AntAlgorithm.h",
               "ToolTip": "E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\AntAlgorithm.h",
               "RelativeToolTip": "lab10\\AntAlgorithm.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-24T13:16:59.425Z",
               "EditorCaption": ""
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "lab10\\GenerateWays.cpp",
               "ToolTip": "E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\GenerateWays.cpp",
               "RelativeToolTip": "lab10\\GenerateWays.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwDYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-24T12:24:32.782Z",
               "EditorCaption": ""
@@ -86,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\main.cpp",
               "RelativeDocumentMoniker": "lab10\\main.cpp",
               "ToolTip": "E:\\\u0443\u043D\u0438\u043A\\\u0410\u0418\u0421\u04142\\term3\\lab10\\lab10\\main.cpp",
               "RelativeToolTip": "lab10\\main.cpp",
-              "ViewState": "AgIAABYAAAAAAAAAAAAIwC8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-24T10:45:21.251Z",
               "EditorCaption": ""

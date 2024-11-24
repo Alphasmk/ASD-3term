@@ -1,5 +1,2 @@
 ﻿  AntAlgorithm.cpp
-  main.cpp
-E:\уник\АИСД2\term3\lab10\lab10\main.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Создание кода...
   lab10.vcxproj -> E:\уник\АИСД2\term3\lab10\x64\Debug\lab10.exe
