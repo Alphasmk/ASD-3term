@@ -35,7 +35,7 @@ struct compare
     bool operator()(MinNode* l, MinNode* r)
     {
         if (l->freq == r->freq)
-            return (int)l->data < (int)r->data; // Дополнительное сравнение по символу
+            return (int)l->data < (int)r->data;
         return l->freq > r->freq;
     }
 };

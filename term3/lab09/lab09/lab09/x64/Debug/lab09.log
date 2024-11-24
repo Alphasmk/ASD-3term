@@ -1,0 +1,3 @@
+﻿  generatePapulation.cpp
+E:\уник\АИСД2\term3\lab09\lab09\generatePapulation.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab09.vcxproj -> E:\уник\АИСД2\term3\lab09\lab09\x64\Debug\lab09.exe

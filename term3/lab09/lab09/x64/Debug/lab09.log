@@ -1,0 +1,7 @@
+﻿  mutation.cpp
+E:\уник\АИСД2\term3\lab09\lab09\mutation.cpp(8,68): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+E:\уник\АИСД2\term3\lab09\lab09\mutation.cpp(8,68): warning C4267:         with
+E:\уник\АИСД2\term3\lab09\lab09\mutation.cpp(8,68): warning C4267:         [
+E:\уник\АИСД2\term3\lab09\lab09\mutation.cpp(8,68): warning C4267:             _Ty=int
+E:\уник\АИСД2\term3\lab09\lab09\mutation.cpp(8,68): warning C4267:         ]
+  lab09.vcxproj -> E:\уник\АИСД2\term3\lab09\x64\Debug\lab09.exe
