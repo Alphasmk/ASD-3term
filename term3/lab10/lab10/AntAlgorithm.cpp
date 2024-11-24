@@ -55,7 +55,7 @@ void AntAlgorithm(int** matrix, int N, map<pair<int, int>, double> feromonesMap,
 				if (probabilitiesSum > choice)
 				{
 					i = probabilities[k].indices.second;
-					break;
+					break;ы
 				}
 			}
 
@@ -70,8 +70,8 @@ void AntAlgorithm(int** matrix, int N, map<pair<int, int>, double> feromonesMap,
 		
 		for (int i = 1; i < way.first.size(); i++)
 		{
-			feromonesMap[make_pair(way.first[i], way.first[i - 1])] = feromonesMap[make_pair(way.first[i], way.first[i - 1])] + feromonesMap[make_pair(way.first[i], way.first[i - 1])] / static_cast<double>(waySum);
-			feromonesMap[make_pair(way.first[i - 1], way.first[i])] = feromonesMap[make_pair(way.first[i - 1], way.first[i])] + feromonesMap[make_pair(way.first[i - 1], way.first[i])] / static_cast<double>(waySum);
+			feromonesMap[make_pair(way.first[i], way.first[i - 1])] = 0.975 * feromonesMap[make_pair(way.first[i], way.first[i - 1])] + feromonesMap[make_pair(way.first[i], way.first[i - 1])] / static_cast<double>(waySum);
+			feromonesMap[make_pair(way.first[i - 1], way.first[i])] = 0.975 * feromonesMap[make_pair(way.first[i - 1], way.first[i])] + feromonesMap[make_pair(way.first[i - 1], way.first[i])] / static_cast<double>(waySum);
 		}
 
 		way.second = waySum;
@@ -91,10 +91,10 @@ void AntAlgorithm(int** matrix, int N, map<pair<int, int>, double> feromonesMap,
 		cout << "\nДлина пути: " << ways[0].second << "\n";
 		cout << "\n";
 		for (const auto& entry : feromonesMap) {
-			const auto& key = entry.first;   // ключ (std::pair<int, int>)
-			double value = entry.second;      // значение (double)
+			const auto& key = entry.first;
+			double value = entry.second;
 
-			std::cout << "Путь: (" << key.first << ", " << key.second << "), Значение феромона: " << value << std::endl;
+			cout << "Путь: (" << key.first << ", " << key.second << "), Значение феромона: " << value << endl;
 		}
 		cout << "\n\n";
 	}while (counter != iterations);
