@@ -55,7 +55,7 @@ void AntAlgorithm(int** matrix, int N, map<pair<int, int>, double> feromonesMap,
 				if (probabilitiesSum > choice)
 				{
 					i = probabilities[k].indices.second;
-					break;ы
+					break;
 				}
 			}
 
@@ -90,12 +90,12 @@ void AntAlgorithm(int** matrix, int N, map<pair<int, int>, double> feromonesMap,
 		}
 		cout << "\nДлина пути: " << ways[0].second << "\n";
 		cout << "\n";
-		for (const auto& entry : feromonesMap) {
-			const auto& key = entry.first;
-			double value = entry.second;
+		//for (const auto& entry : feromonesMap) {
+		//	const auto& key = entry.first;
+		//	double value = entry.second;
 
-			cout << "Путь: (" << key.first << ", " << key.second << "), Значение феромона: " << value << endl;
-		}
-		cout << "\n\n";
+		//	cout << "Путь: (" << key.first << ", " << key.second << "), Значение феромона: " << value << endl;
+		//}
+		//cout << "\n\n";
 	}while (counter != iterations);
 }
